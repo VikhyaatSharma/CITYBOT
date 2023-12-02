@@ -1,0 +1,22 @@
+hello	good afternoon.
+transport issues	What issues are you facing?
+timings of buses leaving from jammu to udhampur	3 buses leave.
+details please	1.(9:00 AM) 2.(12:00 AM) 3.(3:00PM).
+Can i know the fare charges?	Sure, 1.(9:00AM) - 150rs/-.  2.(12:00PM)-200rs/-   3.(3:00PM) - 320RS/-
+Are there any primo buses or volvos?	NO. But they do run from jammu to other states.
+THANK YOU	BYE! HAVE A NICE DAY
+Water Issues	What issues are you facing?
+How to get water supply at my residence?	You can get water supply by filling up a form for new water connection from HYDROLYC DEPARTMENT.
+Where is the hydrolyc department?	It is situated in M.H chowk, Udhampur.
+how much time will it take for setting up a new connection?	it takes around 10-12 days.
+What is the price of the new connection?	IS YOUR CONNECTION PRIVATE OR COMMERCIAL?
+It is private.	Well, the price varies on the basis of the diameter of the pipe you are installing.
+I WANT ORE DETAILS.	For more details, you can visit the offcial website -> www.hydrolicbase.gov.in.
+Elecricity queries	How can i help?
+I want a new electricity connection	Commercial or residential?
+Residential.	okay, How can i help?
+What is the charge per unit?	The charge per unit varies according to the area you are living in.
+What is the charge in housing colony	Rs.8.5/- per unit.
+Is the electric supply 24x7?	Yes, if there are any power cuts, the notice is circulated in advance.
+I want to replace my traditional meter with a smart meter.	For that, you will need to get your new smart meter checked by the elcetric engineer at the department and then submit the old one.
+Will i be provided a electrician by the department?	NO, SORRY.

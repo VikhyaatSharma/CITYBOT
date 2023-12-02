@@ -1,0 +1,31 @@
+hello	good afternoon.
+transport issues	What issues are you facing?
+timings of buses leaving from jammu to udhampur	3 buses leave.
+details please	1.(9:00 AM) 2.(12:00 AM) 3.(3:00PM).
+Can i know the fare charges?	Sure, 1.(9:00AM) - 150rs/-.  2.(12:00PM)-200rs/-   3.(3:00PM) - 320RS/-
+Are there any primo buses or volvos?	NO. But they do run from jammu to other states.
+THANK YOU	BYE! HAVE A NICE DAY
+water issues	What issues are you facing?
+how to get water supply at my residence?	You can get water supply by filling up a form for new water connection from HYDROLYC DEPARTMENT.
+where is the hydrolyc department?	It is situated in M.H chowk, Udhampur.
+how much time will it take for setting up a new connection?	it takes around 10-12 days.
+what is the price of the new connection?	IS YOUR CONNECTION PRIVATE OR COMMERCIAL?
+it is private.	Well, the price varies on the basis of the diameter of the pipe you are installing.
+i want more details.	For more details, you can visit the offcial website -> www.hydrolicbase.gov.in.
+elecricity queries	How can i help?
+i want a new electricity connection	Commercial or residential?
+residential.	okay, How can i help?
+what is the charge per unit?	The charge per unit varies according to the area you are living in.
+what is the charge in housing colony	Rs.8.5/- per unit.
+is the electric supply 24x7?	Yes, if there are any power cuts, the notice is circulated in advance.
+i want to replace my traditional meter with a smart meter.	For that, you will need to get your new smart meter checked by the elcetric engineer at the department and then submit the old one.
+will i be provided a electrician by the department?	NO, SORRY.
+is the government providing electricity subsidy?	Is the property residential?
+yes	well, there are around first 300 units free and if it exceeds 300 units then you have to pay for all the extra units including the previous 300 ones.
+will my saved units be added in the next month when my connection refreshes?	No, sorry that is not possible. 
+where can i pay the electricity bill offline?	you can pay it on the branch of the bank mentioned on your electricity bill.
+street lights issue	how may i help you?
+two of the street lights in my area are not working	please specify your address and the department will look into the issue
+housing colony	an engineer will be sent over to your address and get your issue fixed.In case, it takes time you can contact the department on 7689xx23.
+
+
